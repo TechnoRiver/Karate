@@ -13,6 +13,14 @@ You can run the game directly in your browser (no download required):
 
 ![VibeCool Fighter gameplay](gameplay.gif)
 
+## Feature Highlights
+
+- **Progress bar** while loading video resources so you can see exactly when the game is ready to play
+- **Variable time-speeds** — each punch, kick, and reaction video (and its audio) is played at optimized speeds to create a tighter, more responsive fighting feel
+- Green-screen punch and kick videos generated with **Grok Imagine**
+- Chroma key compositing to place the fighters on a dojo background
+- Iterative vibe-coding and refinement with Grok
+
 ## How It Was Made
 
 - Green-screen punch and kick videos generated with **Grok Imagine**
